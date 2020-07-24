@@ -56,8 +56,8 @@
                     <Grid Margin="0,0,352,0">
                         <Label Content="Login" FontSize="60" Margin="20,36,115,365" FontFamily="Adobe Arabic" FontWeight="Bold"></Label>
                         <TextBlock FontSize="25" FontFamily="Adobe Arabic" Margin="26,99,0,341" HorizontalAlignment="Left" Width="343">Hi Welcome back to Pavam Version 1.0</TextBlock>
-                        <TextBlock FontSize="15" FontFamily="Adobe Song Std L" Margin="26,154,0,285" HorizontalAlignment="Left" Width="352">If you have money, Dont waste it. Some time fate will take</TextBlock>
-                        <TextBlock FontSize="15" FontFamily="Adobe Song Std L" Margin="26,176,0,261" HorizontalAlignment="Left" Width="329">all those money from you, easily....</TextBlock>
+                        <TextBlock FontSize="15" FontFamily="Adobe Song Std L" Margin="26,154,0,285" HorizontalAlignment="Left" Width="352">If you have lot of money, Don't waste it.</TextBlock>
+                        <TextBlock FontSize="15" FontFamily="Adobe Song Std L" Margin="26,176,0,261" HorizontalAlignment="Left" Width="329">Sometimes fate can take all these monies from you.</TextBlock>
                         <StackPanel Margin="20,218,92,137">
                         <WrapPanel Margin="5">
                             <materialDesign:PackIcon Kind="User"
@@ -88,7 +88,7 @@
                         </WrapPanel>
                         </StackPanel>
                         <StackPanel Margin="53,338,163,111">
-                            <CheckBox Padding="5,0,0,1" Margin="10,0,0,0" materialDesign:CheckBoxAssist.CheckBoxSize="15">Check to remember you . . .</CheckBox>
+                            <CheckBox Padding="5,0,0,1" Margin="10,0,0,0" materialDesign:CheckBoxAssist.CheckBoxSize="15">Remember me</CheckBox>
                         </StackPanel>
 
                         <WrapPanel Margin="66,379,163,43">

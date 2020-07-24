@@ -111,7 +111,7 @@
                                   Padding="5,0,0,1" 
                                   Margin="10,0,0,0" 
                                   materialDesign:CheckBoxAssist.CheckBoxSize="15">
-                            Accept privacy policy . . .
+                            Accept privacy policy
                         </CheckBox>
                         </StackPanel>
                         <WrapPanel Margin="66,379,115,43">
