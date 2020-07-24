@@ -1,0 +1,69 @@
+E:\Pavam\PavamWinApp\bin\Debug\PavamWinApp.exe.config
+E:\Pavam\PavamWinApp\bin\Debug\PavamWinApp.exe
+E:\Pavam\PavamWinApp\bin\Debug\PavamWinApp.pdb
+E:\Pavam\PavamWinApp\obj\Debug\MainWindow.g.cs
+E:\Pavam\PavamWinApp\obj\Debug\App.g.cs
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp_MarkupCompile.cache
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp_MarkupCompile.lref
+E:\Pavam\PavamWinApp\obj\Debug\MainWindow.baml
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp.g.resources
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp.Properties.Resources.resources
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp.csproj.GenerateResource.cache
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp.csproj.CoreCompileInputs.cache
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp.exe
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp.pdb
+E:\Pavam\PavamWinApp\bin\Debug\MaterialDesignColors.dll
+E:\Pavam\PavamWinApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Pavam\PavamWinApp\bin\Debug\MaterialDesignColors.pdb
+E:\Pavam\PavamWinApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Pavam\PavamWinApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Pavam\PavamWinApp\obj\Debug\UCLogin.g.cs
+E:\Pavam\PavamWinApp\obj\Debug\App.baml
+E:\Pavam\PavamWinApp\obj\Debug\UCLogin.baml
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp.csproj.CopyComplete
+E:\Pavam\PavamWinApp\obj\Debug\UCSignup.g.cs
+E:\Pavam\PavamWinApp\obj\Debug\UCSignup.baml
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp.csprojAssemblyReference.cache
+E:\Pavam\PavamWinApp\obj\Debug\UCHome.g.cs
+E:\Pavam\PavamWinApp\obj\Debug\UCHome.baml
+E:\Pavam\PavamWinApp\bin\Debug\EntityFramework.dll
+E:\Pavam\PavamWinApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Pavam\PavamWinApp\bin\Debug\EntityFramework.xml
+E:\Pavam\PavamWinApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Pavam\PavamWinApp\obj\Debug\PavamWinApp_Content.g.cs
+E:\Pavam\PavamWinApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\MainWindow.g.cs
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\Views\UCHome.g.cs
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\Views\UCLogin.g.cs
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\Views\UCSignup.g.cs
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\App.g.cs
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp_Content.g.cs
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp_MarkupCompile.cache
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp_MarkupCompile.lref
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp.exe
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp.pdb
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\PavamWinApp.exe.config
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\PavamWinApp.exe
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\PavamWinApp.pdb
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\EntityFramework.dll
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\EntityFramework.SqlServer.dll
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\MaterialDesignColors.dll
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\EntityFramework.xml
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\EntityFramework.SqlServer.xml
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\MaterialDesignColors.pdb
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Pavam\PavamWinApp V 1.01\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\App.baml
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\MainWindow.baml
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\Views\UCHome.baml
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\Views\UCLogin.baml
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\Views\UCSignup.baml
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp.g.resources
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp.Properties.Resources.resources
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp.csproj.GenerateResource.cache
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp.csproj.CoreCompileInputs.cache
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp.csproj.CopyComplete
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\PavamWinApp.csprojAssemblyReference.cache
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\Views\Home\UCCatagories.g.cs
+E:\Pavam\PavamWinApp V 1.01\obj\Debug\Views\Home\UCCatagories.baml
